@@ -1,0 +1,7 @@
+*.cia
+*.3ds
+*.cci
+*.bin
+*.xdelta
+*.zip
+release/
