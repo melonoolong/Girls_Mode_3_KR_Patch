@@ -80,7 +80,7 @@ DLC CIA v0.13.0 (0004008C0012D800)   암호화
 
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
-| `GM3_KR_Patch_v0.5.0-beta.zip` | 19,994,271 바이트 | `ce7801ba2c1f6ad352d24e5a5bbc656eea8e5807431b06fcfa60fefb66e5383c` |
+| `GM3_KR_Patch_v0.5.0-beta.zip` | 19,994,663 바이트 | `8dd90cb5bb4a18d84c99728a08cfded8600feb144a4d6b288254cb56ab87b6a0` |
 
 [Releases](../../releases)에서 받을 수 있습니다. ZIP 안에는 자동 패처(윈도우용 실행 bat + 공식 임베디드 파이썬),
 파일별 차분 패치(xdelta), 설명서가 들어 있습니다. 게임 데이터는 들어 있지 않습니다.
