@@ -85,11 +85,6 @@ Rev 3 카트리지는 나중에 찍은 판이라 업데이트 3.3.0 내용이 �
   - 한 번에 설치하기: CIA를 SD카드의 한 폴더에만 모아 두고, FBI에서 그 폴더로 들어가 맨 위 `<current directory>` → **Install all CIAs**를 고르면 차례로 모두 설치됩니다.
 - 어느 쪽이든 위의 세이브 주의를 꼭 읽어 주세요.
 
-### RomForge 등 다른 도구
-ZIP의 `patch/base`, `patch/update`, `patch/dlc` 폴더가 각 CIA용 파일별 xdelta입니다(RomForge 3DS 리팩 규칙).
-업데이트의 실행 코드 패치는 `patch/update/code.ips`입니다.
-Rev 3 카트리지에는 `base`와 `update`의 RomFS 패치를 모두 적용하고, `code.ips`·`update`의 설명서 패치·`base`의 icon/banner 패치를 씁니다(`manifest.json`의 `rev3` 항목).
-
 ## 현재 상태 (v0.5.0-beta)
 
 - 대사·선택지·메뉴·아이템/가구 이름·손님 프로필·미키피디아 등 게임 안 문장 전체를 한국어로 옮겼습니다.
