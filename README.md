@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="images/menu.png" width="300" alt="시작 메뉴">
+  <img src="images/mikipedia.png" width="300" alt="미키피디아">
 </p>
 
 ## 지원 원본
